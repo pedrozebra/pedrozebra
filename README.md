@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozebra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrozebra&show_icons=true&theme=dark)
 
 <!--
 **pedrozebra/pedrozebra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
