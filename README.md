@@ -23,6 +23,9 @@ Never stop learning Developer. Currently Back End Developer @alpenite
 <img align='left' alt='php' title="PHP" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" width='35'>
 <img align='left' alt='node' title="Node.js" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/> 
 <img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
+<img align='left' alt='laravel' title="Laravel" src="https://github.com/pedrozebra/pedrozebra/blob/main/bitbucket_original_wordmark_logo_icon_146622.png" width='35'>
+<img align='left' alt='git' title="Git" src="https://github.com/pedrozebra/pedrozebra/blob/main/git_original_wordmark_logo_icon_146510.png" width='35'>
+
 
 <img align='left' alt='bootstrap' title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" width='35'>
 <img align='left' alt='mySql' title="MySQL" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width='35'>
