@@ -22,7 +22,11 @@ Never stop learning Developer. Currently Salesforce Commerce Cloud Back End Deve
 
 <img align='left' alt='php' title="PHP" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" width='35'>
 
-<img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
+
+
+<img align='left' alt='laravel' title="Laravel" src="https://github.com/pedrozebra/pedrozebra/blob/main/laravel_plain_wordmark_logo_icon_146439.png" width='64' height='64'>
+<img align='left' alt='bootstrap' title="Bootstrap" src="https://github.com/pedrozebra/pedrozebra/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png" width='64' height='64'>
+<img align='left' alt='trello' title="Trello" src="https://github.com/pedrozebra/pedrozebra/blob/main/trello_plain_wordmark_logo_icon_146320.png" width='64' height='64'>
 
 <img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/bitbucket_original_wordmark_logo_icon_146622.png" width='50'>
 <img align='left' alt='git' title="Git" src="https://github.com/pedrozebra/pedrozebra/blob/main/git_original_wordmark_logo_icon_146510.png" width='50'>
@@ -34,7 +38,6 @@ Never stop learning Developer. Currently Salesforce Commerce Cloud Back End Deve
 <img align='left' alt='react' title="React" src="https://github.com/pedrozebra/pedrozebra/blob/main/react_original_wordmark_logo_icon_146375.png" width='50'>
 <img align='left' alt='vuejs' title="VueJS" src="https://github.com/pedrozebra/pedrozebra/blob/main/vuejs_original_wordmark_logo_icon_146305.png" width='50'>
 
-<img align='left' alt='bootstrap' title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" width='50'>
 
 <br/>
 <br/>
