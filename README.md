@@ -47,8 +47,8 @@ Currently Salesforce Commerce Cloud Back End Developer @alpenite
 <img align='left' alt='vuejs' title="VueJS" src="https://github.com/pedrozebra/pedrozebra/blob/main/vuejs_original_wordmark_logo_icon_146305.png" height='64' width='64'>
 <img align='left' alt='nodejs' title="NodeJs" src="https://github.com/pedrozebra/pedrozebra/blob/main/nodejs_original_wordmark_logo_icon_146412.png" height='64' width='64'>
 <br/>
+<br/>
 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozebra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrozebra&show_icons=true&theme=dark)
