@@ -19,17 +19,23 @@ Never stop learning Developer. Currently Salesforce Commerce Cloud Back End Deve
 <img align='left' alt='css' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'>
 <img align='left' alt='javascript' title="JavaScript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" width='35'>
 <img align='left' alt='Css' title="Css" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" width='35'>
-<img align='left' alt='HTML' title="HTML" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" width='35'>
-<img align='left' alt='php' title="PHP" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" width='35'>
-<img align='left' alt='node' title="Node.js" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/> 
-<img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
-<img align='left' alt='laravel' title="Laravel" src="https://github.com/pedrozebra/pedrozebra/blob/main/bitbucket_original_wordmark_logo_icon_146622.png" width='35'>
-<img align='left' alt='git' title="Git" src="https://github.com/pedrozebra/pedrozebra/blob/main/git_original_wordmark_logo_icon_146510.png" width='35'>
 
+<img align='left' alt='php' title="PHP" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" width='35'>
+
+<img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
+
+<img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/bitbucket_original_wordmark_logo_icon_146622.png" width='35'>
+<img align='left' alt='git' title="Git" src="https://github.com/pedrozebra/pedrozebra/blob/main/git_original_wordmark_logo_icon_146510.png" width='35'>
+<img align='left' alt='html' title="Html" src="https://github.com/pedrozebra/pedrozebra/blob/main/html_original_wordmark_logo_icon_146478.png" width='35'>
+<img align='left' alt='jquery' title="JQuery" src="https://github.com/pedrozebra/pedrozebra/blob/main/jquery_original_wordmark_logo_icon_146447.png" width='35'>
+<img align='left' alt='mongodb' title="MongoDB" src="https://github.com/pedrozebra/pedrozebra/blob/main/mongodb_original_wordmark_logo_icon_146425.png" width='35'>
+<img align='left' alt='mysql' title="MySQL" src="https://github.com/pedrozebra/pedrozebra/blob/main/mysql_original_wordmark_logo_icon_146417.png" width='35'>
+<img align='left' alt='nodejs' title="NodeJs" src="https://github.com/pedrozebra/pedrozebra/blob/main/nodejs_original_wordmark_logo_icon_146412.png" width='35'>
+<img align='left' alt='react' title="React" src="https://github.com/pedrozebra/pedrozebra/blob/main/react_original_wordmark_logo_icon_146375.png" width='35'>
+<img align='left' alt='vuejs' title="VueJS" src="https://github.com/pedrozebra/pedrozebra/blob/main/vuejs_original_wordmark_logo_icon_146305.png" width='35'>
 
 <img align='left' alt='bootstrap' title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" width='35'>
-<img align='left' alt='mySql' title="MySQL" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width='35'>
-<img align='left' alt='mongoDB' src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" width='35' title="MongoDB">
+
 <br/>
 <br/>
 
