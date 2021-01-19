@@ -13,7 +13,7 @@ Currently Salesforce Commerce Cloud Back End Developer @alpenite
 ---
 
 
-*Languages / Tools:*
+#### Languages / Tools:
 
 
 
@@ -38,8 +38,8 @@ Currently Salesforce Commerce Cloud Back End Developer @alpenite
 <br/>
 ---
 <br/>
-
-*Studying at the moment:*
+<br/>
+#### Studying at the moment:
 <img align='left' alt='react' title="React" src="https://github.com/pedrozebra/pedrozebra/blob/main/react_original_wordmark_logo_icon_146375.png">
 <img align='left' alt='vuejs' title="VueJS" src="https://github.com/pedrozebra/pedrozebra/blob/main/vuejs_original_wordmark_logo_icon_146305.png">
 <img align='left' alt='nodejs' title="NodeJs" src="https://github.com/pedrozebra/pedrozebra/blob/main/nodejs_original_wordmark_logo_icon_146412.png">
