@@ -33,7 +33,7 @@ Currently Salesforce Commerce Cloud Back End Developer @alpenite
 <img align='left' alt='jquery' title="JQuery" src="https://github.com/pedrozebra/pedrozebra/blob/main/jquery_original_wordmark_logo_icon_146447.png">
 <img align='left' alt='mongodb' title="MongoDB" src="https://github.com/pedrozebra/pedrozebra/blob/main/mongodb_original_wordmark_logo_icon_146425.png" height='64' width='64'>
 <img align='left' alt='mysql' title="MySQL" src="https://github.com/pedrozebra/pedrozebra/blob/main/mysql_original_wordmark_logo_icon_146417.png">
-
+<img align='left' alt='salesforce' title="Salesforce" src="salesforce_logo_icon_168852.png">
 
 <br/>
 <br/>
