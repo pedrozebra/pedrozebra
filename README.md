@@ -38,6 +38,8 @@ Currently Salesforce Commerce Cloud Back End Developer @alpenite
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 ---
 
@@ -46,6 +48,13 @@ Currently Salesforce Commerce Cloud Back End Developer @alpenite
 <img align='left' alt='react' title="React" src="https://github.com/pedrozebra/pedrozebra/blob/main/react_original_wordmark_logo_icon_146375.png" height='64' width='64'>
 <img align='left' alt='vuejs' title="VueJS" src="https://github.com/pedrozebra/pedrozebra/blob/main/vuejs_original_wordmark_logo_icon_146305.png" height='64' width='64'>
 <img align='left' alt='nodejs' title="NodeJs" src="https://github.com/pedrozebra/pedrozebra/blob/main/nodejs_original_wordmark_logo_icon_146412.png" height='64' width='64'>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+<br/>
 <br/>
 <br/>
 
