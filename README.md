@@ -27,8 +27,8 @@ Never stop learning Developer. Currently Salesforce Commerce Cloud Back End Deve
 <img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/bitbucket_original_wordmark_logo_icon_146622.png" width='64' height='64'>
 <img align='left' alt='git' title="Git" src="https://github.com/pedrozebra/pedrozebra/blob/main/git_original_wordmark_logo_icon_146510.png" width='64' height='64'>
 <img align='left' alt='html' title="Html" src="https://github.com/pedrozebra/pedrozebra/blob/main/html_original_wordmark_logo_icon_146478.png" width='64' height='64'>
-<br/>
-<br/>
+\
+\
 <img align='left' alt='jquery' title="JQuery" src="https://github.com/pedrozebra/pedrozebra/blob/main/jquery_original_wordmark_logo_icon_146447.png" width='64' height='64'>
 <img align='left' alt='mongodb' title="MongoDB" src="https://github.com/pedrozebra/pedrozebra/blob/main/mongodb_original_wordmark_logo_icon_146425.png" width='64' height='64'>
 <img align='left' alt='mysql' title="MySQL" src="https://github.com/pedrozebra/pedrozebra/blob/main/mysql_original_wordmark_logo_icon_146417.png" width='64' height='64'>
@@ -44,10 +44,12 @@ Never stop learning Developer. Currently Salesforce Commerce Cloud Back End Deve
 
 
 *Studying at the moment:*
+\
+\
 <img align='left' alt='react' title="React" src="https://github.com/pedrozebra/pedrozebra/blob/main/react_original_wordmark_logo_icon_146375.png" width='64' height='64'>
 <img align='left' alt='vuejs' title="VueJS" src="https://github.com/pedrozebra/pedrozebra/blob/main/vuejs_original_wordmark_logo_icon_146305.png" width='64' height='64'>
 <img align='left' alt='nodejs' title="NodeJs" src="https://github.com/pedrozebra/pedrozebra/blob/main/nodejs_original_wordmark_logo_icon_146412.png" width='64' height='64'>
-
+\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozebra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrozebra&show_icons=true&theme=dark)
