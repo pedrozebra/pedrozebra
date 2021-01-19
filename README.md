@@ -35,12 +35,13 @@ Currently Salesforce Commerce Cloud Back End Developer @alpenite
 <img align='left' alt='mysql' title="MySQL" src="https://github.com/pedrozebra/pedrozebra/blob/main/mysql_original_wordmark_logo_icon_146417.png">
 <img align='left' alt='salesforce' title="Salesforce" src="salesforce_logo_icon_168852 (1).png" >
 
-<br/>
+
+
+
 ---
-<br/>
-<br/>
----
-#### - 🌱 I’m currently learning ...
+
+#### 🌱 I’m currently learning
+
 <img align='left' alt='react' title="React" src="https://github.com/pedrozebra/pedrozebra/blob/main/react_original_wordmark_logo_icon_146375.png">
 <img align='left' alt='vuejs' title="VueJS" src="https://github.com/pedrozebra/pedrozebra/blob/main/vuejs_original_wordmark_logo_icon_146305.png">
 <img align='left' alt='nodejs' title="NodeJs" src="https://github.com/pedrozebra/pedrozebra/blob/main/nodejs_original_wordmark_logo_icon_146412.png">
