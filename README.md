@@ -1,8 +1,7 @@
 ### Hi i'm Pietro Della Notte 👋
 
 
-Never stop learning Developer. Currently <img align='left' alt='bitbucket' title="Bit Bucket" src="salesforce_logo_icon_168852.png">
- Salesforce Commerce Cloud Back End Developer @alpenite
+Never stop learning Developer. Currently Salesforce Commerce Cloud Back End Developer @alpenite
 
 *Contact Me:*
 
@@ -16,7 +15,7 @@ Never stop learning Developer. Currently <img align='left' alt='bitbucket' title
 *Languages / Tools:*
 
 
-
+<img align='left' alt='bitbucket' title="Bit Bucket" src="salesforce_logo_icon_168852.png" width='64' height='64'>
 <img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/laravel_plain_wordmark_logo_icon_146439.png" width='64' height='64'>
 <img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/php_icon_130857.png" width='64' height='64'>
 <img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png" width='64' height='64'>
