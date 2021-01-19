@@ -36,7 +36,6 @@ Currently Salesforce Commerce Cloud Back End Developer @alpenite
 <img align='left' alt='salesforce' title="Salesforce" src="salesforce_logo_icon_168852 (1).png" >
 
 
-
 ---
 
 
