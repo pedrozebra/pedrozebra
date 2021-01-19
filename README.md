@@ -24,17 +24,17 @@ Never stop learning Developer. Currently Salesforce Commerce Cloud Back End Deve
 
 <img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 
-<img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/bitbucket_original_wordmark_logo_icon_146622.png" width='35'>
-<img align='left' alt='git' title="Git" src="https://github.com/pedrozebra/pedrozebra/blob/main/git_original_wordmark_logo_icon_146510.png" width='35'>
-<img align='left' alt='html' title="Html" src="https://github.com/pedrozebra/pedrozebra/blob/main/html_original_wordmark_logo_icon_146478.png" width='35'>
-<img align='left' alt='jquery' title="JQuery" src="https://github.com/pedrozebra/pedrozebra/blob/main/jquery_original_wordmark_logo_icon_146447.png" width='35'>
-<img align='left' alt='mongodb' title="MongoDB" src="https://github.com/pedrozebra/pedrozebra/blob/main/mongodb_original_wordmark_logo_icon_146425.png" width='35'>
+<img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/bitbucket_original_wordmark_logo_icon_146622.png" width='50'>
+<img align='left' alt='git' title="Git" src="https://github.com/pedrozebra/pedrozebra/blob/main/git_original_wordmark_logo_icon_146510.png" width='50'>
+<img align='left' alt='html' title="Html" src="https://github.com/pedrozebra/pedrozebra/blob/main/html_original_wordmark_logo_icon_146478.png" width='50'>
+<img align='left' alt='jquery' title="JQuery" src="https://github.com/pedrozebra/pedrozebra/blob/main/jquery_original_wordmark_logo_icon_146447.png" width='50'>
+<img align='left' alt='mongodb' title="MongoDB" src="https://github.com/pedrozebra/pedrozebra/blob/main/mongodb_original_wordmark_logo_icon_146425.png" width='50'>
 <img align='left' alt='mysql' title="MySQL" src="https://github.com/pedrozebra/pedrozebra/blob/main/mysql_original_wordmark_logo_icon_146417.png" width='50'>
 <img align='left' alt='nodejs' title="NodeJs" src="https://github.com/pedrozebra/pedrozebra/blob/main/nodejs_original_wordmark_logo_icon_146412.png" width='50'>
 <img align='left' alt='react' title="React" src="https://github.com/pedrozebra/pedrozebra/blob/main/react_original_wordmark_logo_icon_146375.png" width='50'>
 <img align='left' alt='vuejs' title="VueJS" src="https://github.com/pedrozebra/pedrozebra/blob/main/vuejs_original_wordmark_logo_icon_146305.png" width='50'>
 
-<img align='left' alt='bootstrap' title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" width='35'>
+<img align='left' alt='bootstrap' title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" width='50'>
 
 <br/>
 <br/>
