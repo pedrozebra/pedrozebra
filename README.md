@@ -14,16 +14,12 @@ Never stop learning Developer. Currently Salesforce Commerce Cloud Back End Deve
 
 *Languages / Tools:*
 
-<img align='left' alt='git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='35'>
-
-<img align='left' alt='css' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'>
-<img align='left' alt='javascript' title="JavaScript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" width='35'>
-<img align='left' alt='Css' title="Css" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" width='35'>
-
-<img align='left' alt='php' title="PHP" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" width='35'>
 
 
-
+<img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/laravel_plain_wordmark_logo_icon_146439.png" width='64' height='64'>
+<img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/php_icon_130857.png" width='64' height='64'>
+<img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png" width='64' height='64'>
+<img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/javascript_icon_130900.png" width='64' height='64'>
 <img align='left' alt='laravel' title="Laravel" src="https://github.com/pedrozebra/pedrozebra/blob/main/laravel_plain_wordmark_logo_icon_146439.png" width='64' height='64'>
 <img align='left' alt='bootstrap' title="Bootstrap" src="https://github.com/pedrozebra/pedrozebra/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png" width='64' height='64'>
 <img align='left' alt='trello' title="Trello" src="https://github.com/pedrozebra/pedrozebra/blob/main/trello_plain_wordmark_logo_icon_146320.png" width='64' height='64'>
@@ -41,7 +37,7 @@ Never stop learning Developer. Currently Salesforce Commerce Cloud Back End Deve
 
 <br/>
 <br/>
-
+<br/>
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozebra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
