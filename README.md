@@ -27,11 +27,11 @@ Currently Salesforce Commerce Cloud Back End Developer @alpenite
 
 
 <img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/bitbucket_original_wordmark_logo_icon_146622.png">
-<img align='left' alt='git' title="Git" src="https://github.com/pedrozebra/pedrozebra/blob/main/git_original_wordmark_logo_icon_146510.png">
+<img align='left' alt='git' title="Git" src="https://github.com/pedrozebra/pedrozebra/blob/main/git_original_wordmark_logo_icon_146510.png" height='64' width='64'>
 <img align='left' alt='html' title="Html" src="https://github.com/pedrozebra/pedrozebra/blob/main/html_original_wordmark_logo_icon_146478.png">
 
 <img align='left' alt='jquery' title="JQuery" src="https://github.com/pedrozebra/pedrozebra/blob/main/jquery_original_wordmark_logo_icon_146447.png">
-<img align='left' alt='mongodb' title="MongoDB" src="https://github.com/pedrozebra/pedrozebra/blob/main/mongodb_original_wordmark_logo_icon_146425.png">
+<img align='left' alt='mongodb' title="MongoDB" src="https://github.com/pedrozebra/pedrozebra/blob/main/mongodb_original_wordmark_logo_icon_146425.png" height='64' width='64'>
 <img align='left' alt='mysql' title="MySQL" src="https://github.com/pedrozebra/pedrozebra/blob/main/mysql_original_wordmark_logo_icon_146417.png">
 <img align='left' alt='salesforce' title="Salesforce" src="salesforce_logo_icon_168852 (1).png" >
 
