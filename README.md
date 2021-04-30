@@ -1,64 +1,37 @@
 ### Hi i'm Pietro Della Notte 👋✅😸
 
-
-Never stop learning Developer. 
+Never stop learning Developer.
 Currently Salesforce Commerce Cloud Back End Developer @alpenite
 
-#### Contact Me:
+### Contact Me:
 
-[<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/pietro-della-notte/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-della-notte/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdellanotte@gmail.com)
 
-<br/>
+### Languages / Tools:
 
----
+[![Salesforce](https://img.shields.io/badge/salesforce-117A65?style=for-the-badge&logo=salesforce&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)]()
+[![Jquery](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)]()
+[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
+[![Nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)]()
+[![VsCode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
+[![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)]()
 
+### 🌱 I’m currently learning
 
-#### Languages / Tools:
-
-
-
-
-<img align='left' alt='javascript' title="JavaScript" src="https://github.com/pedrozebra/pedrozebra/blob/main/javascript_icon_130900.png" >
-<img align='left' alt='laravel' title="Laravel" src="https://github.com/pedrozebra/pedrozebra/blob/main/laravel_plain_wordmark_logo_icon_146439.png">
-<img align='left' alt='bootstrap' title="Bootstrap" src="https://github.com/pedrozebra/pedrozebra/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png">
-<img align='left' alt='trello' title="Trello" src="https://github.com/pedrozebra/pedrozebra/blob/main/trello_plain_wordmark_logo_icon_146320.png">
-
-<img align='left' alt='php' title="PHP" src="https://github.com/pedrozebra/pedrozebra/blob/main/php_icon_130857.png">
-
-
-<img align='left' alt='bitbucket' title="Bit Bucket" src="https://github.com/pedrozebra/pedrozebra/blob/main/bitbucket_original_wordmark_logo_icon_146622.png">
-<img align='left' alt='git' title="Git" src="https://github.com/pedrozebra/pedrozebra/blob/main/git_original_wordmark_logo_icon_146510.png" height='64' width='64'>
-<img align='left' alt='html' title="Html" src="https://github.com/pedrozebra/pedrozebra/blob/main/html_original_wordmark_logo_icon_146478.png">
-
-<img align='left' alt='jquery' title="JQuery" src="https://github.com/pedrozebra/pedrozebra/blob/main/jquery_original_wordmark_logo_icon_146447.png">
-
-<img align='left' alt='mysql' title="MySQL" src="https://github.com/pedrozebra/pedrozebra/blob/main/mysql_original_wordmark_logo_icon_146417.png">
-<img align='left' alt='salesforce' title="Salesforce" src="salesforce_logo_icon_168852.png">
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-#### 🌱 I’m currently learning
-
-<img align='left' alt='react' title="React" src="https://github.com/pedrozebra/pedrozebra/blob/main/react_original_wordmark_logo_icon_146375.png" height='64' width='64'>
-<img align='left' alt='vuejs' title="VueJS" src="https://github.com/pedrozebra/pedrozebra/blob/main/vuejs_original_wordmark_logo_icon_146305.png" height='64' width='64'>
-<img align='left' alt='nodejs' title="NodeJs" src="https://github.com/pedrozebra/pedrozebra/blob/main/nodejs_original_wordmark_logo_icon_146412.png" height='64' width='64'>
-<img align='left' alt='mongodb' title="MongoDB" src="https://github.com/pedrozebra/pedrozebra/blob/main/mongodb_original_wordmark_logo_icon_146425.png" height='64' width='64'>
-<br/>
-<br/>
-<br/>
-<br/>
-
----
-<br/>
-<br/>
-<br/>
+[![NexJs](https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)]()
+[![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white)]()
+[![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+[![VueJs](https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)]()
+[![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
+[![ExpressJs](https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge)]()
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)]()
+[![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozebra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
