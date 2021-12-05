@@ -5,7 +5,7 @@ Currently Salesforce Commerce Cloud Back End Developer @alpenite
 
 ### Contact Me:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-della-notte/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrodellanotte/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdellanotte@gmail.com)
 
 ### Languages / Tools:
